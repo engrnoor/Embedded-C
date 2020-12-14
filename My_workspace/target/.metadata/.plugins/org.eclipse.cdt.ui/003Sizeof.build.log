@@ -1,0 +1,10 @@
+19:07:10 **** Incremental Build of configuration Debug for project 003Sizeof ****
+make -j8 all 
+arm-none-eabi-size   003Sizeof.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5220	    108	   1580	   6908	   1afc	003Sizeof.elf
+Finished building: default.size.stdout
+ 
+
+19:07:11 Build Finished. 0 errors, 0 warnings. (took 489ms)
+
