@@ -386,3 +386,282 @@ java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-
 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
 	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
 	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-14 21:32:54.811
+!MESSAGE Indexed '004_pointer_L' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 21:36:38.580
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.214693116: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 21:36:38.580
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/004_pointer_L/Debug/004_pointer_L
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$14(StackAnalyzerView.java:1185)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-14 21:57:17.631
+!MESSAGE Indexed '005Pointer_Exercise' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:02:28.116
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.384591126: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:02:28.116
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/002Average_L/Debug/002Average_L
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1230)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:03:39.975
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:03:39.975
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$14(StackAnalyzerView.java:1185)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:03:44.072
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.384591126: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:03:44.072
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/002Average_L/Debug/002Average_L
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1230)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:03:59.456
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:03:59.457
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1230)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:04:05.337
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.384591126: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:04:05.337
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/002Average_L/Debug/002Average_L
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$14(StackAnalyzerView.java:1185)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:04:06.133
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:04:06.134
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$14(StackAnalyzerView.java:1185)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:04:32.670
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:04:32.670
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:11:16.302
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:11:16.302
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:11:48.283
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:11:48.283
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:12:41.006
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:12:41.006
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:14:29.139
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:14:29.139
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:17:39.513
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:17:39.513
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:19:11.445
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:19:11.445
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:19:56.866
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:19:56.866
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:20:21.591
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:20:21.591
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:21:13.625
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:21:13.625
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:21:26.927
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:21:26.927
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:24:39.678
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:24:39.679
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:25:50.234
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:25:50.234
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-12-14 22:28:14.613
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.exe.debug.669516767: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-12-14 22:28:14.613
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /home/radwan/Embedded-C/My_workspace/host/005Pointer_Exercise/Debug/005Pointer_Exercise
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:900)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1250)
+	at java.lang.Thread.run(Thread.java:748)

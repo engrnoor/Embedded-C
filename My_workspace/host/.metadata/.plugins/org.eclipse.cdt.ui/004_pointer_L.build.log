@@ -1,0 +1,19 @@
+21:36:17 **** Build of configuration Debug for project 004_pointer_L ****
+make all 
+Building file: ../main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.c"
+../main.c: In function ‘main’:
+../main.c:13:8: warning: unused variable ‘address1’ [-Wunused-variable]
+   13 |  char* address1 = (char*) 0x00007FFF8E3C3824;
+      |        ^~~~~~~~
+Finished building: ../main.c
+ 
+Building target: 004_pointer_L
+Invoking: GCC C Linker
+gcc  -o "004_pointer_L"  ./main.o   
+Finished building target: 004_pointer_L
+ 
+
+21:36:17 Build Finished. 0 errors, 1 warnings. (took 519ms)
+

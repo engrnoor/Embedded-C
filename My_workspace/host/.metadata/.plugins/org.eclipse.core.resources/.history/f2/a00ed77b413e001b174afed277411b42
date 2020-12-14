@@ -1,0 +1,24 @@
+/*
+ * main.c
+ *
+ *  Created on: Dec 14, 2020
+ *      Author: radwan
+ */
+#include <stdio.h>
+
+int main(void)
+{
+	char var1 = 100;
+	char* address1 = (char*) &var1;
+	printf("the address is %p", &var1);
+	printf("\nthe address is %p", address1);
+	fflush(stdout);
+	char data = *address1;
+	printf("\nthe stored data is: %d", data);
+	fflush(stdout);
+
+//	*address1 = 65;
+//	printf("\nthe updated value is: %c", *address1)
+
+
+}
