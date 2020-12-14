@@ -1,1 +1,9 @@
-*.exe
+*
+!*.c
+!Makefile
+!*.md
+!makefile
+!.s
+!.h
+!.ld
+
