@@ -53,8 +53,8 @@ all: main-build
 main-build: 001HelloWorld.elf secondary-outputs
 
 # Tool invocations
-001HelloWorld.elf: $(OBJS) $(USER_OBJS) /home/radwan/Embedded-C/My_workspace/target/001HelloWorld/STM32F103C8TX_FLASH.ld
-	arm-none-eabi-gcc -o "001HelloWorld.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"/home/radwan/Embedded-C/My_workspace/target/001HelloWorld/STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="001HelloWorld.map" -Wl,--gc-sections -static -specs=rdimon.specs -lc -lrdimon --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+001HelloWorld.elf: $(OBJS) $(USER_OBJS) C:\Users\ernoo\Documents\Udemy\ courses\Embedded-C\My_workspace\target\001HelloWorld\STM32F103C8TX_FLASH.ld
+	arm-none-eabi-gcc -o "001HelloWorld.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"C:\Users\ernoo\Documents\Udemy courses\Embedded-C\My_workspace\target\001HelloWorld\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="001HelloWorld.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

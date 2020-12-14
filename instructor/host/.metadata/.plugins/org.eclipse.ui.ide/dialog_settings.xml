@@ -7,14 +7,14 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="/home/radwan/Embedded-C/Downloads/Embedded-C-master/All_source_codes/host"/>
+			<item value="C:\Users\ernoo\Documents\Udemy courses\Embedded-C\Downloads\Embedded-C-master\All_source_codes\host"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="143"/>
+		<item key="DIALOG_X_ORIGIN" value="195"/>
 		<item key="DIALOG_Y_ORIGIN" value="184"/>
 	</section>
 	<section name="WORKBENCH_SETTINGS">
