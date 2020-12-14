@@ -1,7 +1,6 @@
-23:00:24 **** Rebuild of configuration Debug for project 001Average ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o 001Average.exe main.o 
+20:55:55 **** Clean-only build of configuration Debug for project 001Average ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf main_new.o 001Average.exe main_new.d 
 
-23:00:24 Build Finished. 0 errors, 0 warnings. (took 580ms)
+20:55:55 Build Finished. 0 errors, 0 warnings. (took 419ms)
 

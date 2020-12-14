@@ -1,4 +1,19 @@
-23:00:24 **** Rebuild of configuration Debug for project 001Average ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o 001Average.exe main.o 
+20:57:35 **** Clean-only build of configuration Debug for project 002Average_L ****
+make clean 
+rm -rf  ./main_new.o  ./main_new.d  002Average_L
+ 
+20:57:36 **** Incremental Build of configuration Debug for project 002Average_L ****
+make all 
+Building file: ../main_new.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main_new.d" -MT"main_new.o" -o "main_new.o" "../main_new.c"
+Finished building: ../main_new.c
+ 
+Building target: 002Average_L
+Invoking: GCC C Linker
+gcc  -o "002Average_L"  ./main_new.o   
+Finished building target: 002Average_L
+ 
+20:57:43 **** Incremental Build of configuration Debug for project 002Average_L ****
+make all 
+make: Nothing to be done for 'all'.

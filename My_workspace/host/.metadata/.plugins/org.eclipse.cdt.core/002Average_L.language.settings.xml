@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project>
-	<configuration id="cdt.managedbuild.config.gnu.mingw.exe.debug.1485515706" name="Debug">
+	<configuration id="cdt.managedbuild.config.gnu.exe.debug.1304624493" name="Debug">
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
-			<provider id="org.eclipse.cdt.managedbuilder.core.GCCBuiltinSpecsDetectorMinGW">
+			<provider id="org.eclipse.cdt.managedbuilder.core.GCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
 					<entry kind="includePath" name="/usr/lib/gcc/x86_64-linux-gnu/9/include">
 						<flag value="BUILTIN|READONLY"/>
@@ -2257,9 +2257,9 @@
 			</provider>
 		</extension>
 	</configuration>
-	<configuration id="cdt.managedbuild.config.gnu.mingw.exe.release.1551743072" name="Release">
+	<configuration id="cdt.managedbuild.config.gnu.exe.release.887243323" name="Release">
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
-			<provider id="org.eclipse.cdt.managedbuilder.core.GCCBuiltinSpecsDetectorMinGW">
+			<provider id="org.eclipse.cdt.managedbuilder.core.GCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
 					<entry kind="includePath" name="/usr/lib/gcc/x86_64-linux-gnu/9/include">
 						<flag value="BUILTIN|READONLY"/>
