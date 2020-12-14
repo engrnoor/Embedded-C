@@ -1,19 +1,15 @@
-20:57:35 **** Clean-only build of configuration Debug for project 002Average_L ****
-make clean 
-rm -rf  ./main_new.o  ./main_new.d  002Average_L
- 
-20:57:36 **** Incremental Build of configuration Debug for project 002Average_L ****
+21:16:17 **** Incremental Build of configuration Debug for project ASCII_L ****
 make all 
-Building file: ../main_new.c
+Building file: ../main.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main_new.d" -MT"main_new.o" -o "main_new.o" "../main_new.c"
-Finished building: ../main_new.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.c"
+Finished building: ../main.c
  
-Building target: 002Average_L
+Building target: ASCII_L
 Invoking: GCC C Linker
-gcc  -o "002Average_L"  ./main_new.o   
-Finished building target: 002Average_L
+gcc  -o "ASCII_L"  ./main.o   
+Finished building target: ASCII_L
  
-20:57:43 **** Incremental Build of configuration Debug for project 002Average_L ****
+21:16:23 **** Incremental Build of configuration Debug for project ASCII_L ****
 make all 
 make: Nothing to be done for 'all'.
